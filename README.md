@@ -11,10 +11,10 @@ A simple website where payment gateway is integrated.
 
 
 Tech Stack
-Languages Used: HTML, CSS, BOOTSTRAP, JAVASCRIPT
+Languages Used: HTML, CSS, JAVASCRIPT
 
 Payement: RazorPay
 
 Links
-www.linkedin.com/in/nikhitha-banoth-7a553620a
+LINKEDIN:- https://www.linkedin.com/in/nikhitha-banoth-7a553620a/
 
