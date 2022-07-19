@@ -56,7 +56,7 @@ a{
     color: white;
 }
 .banner{
-    background-image: url("IMAGES/children 1.jpeg");
+    background-image: url("children 1.jpeg");
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -99,7 +99,7 @@ a{
     width: 70%;
 }
 .aboutus_img_banner{
-    background-image: url("IMAGES/children 2.jpeg");
+    background-image: url("children 2.jpeg");
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -169,7 +169,7 @@ textarea{
     margin-bottom: 5px;
 }
 .contact_banner_img{
-    background-image: url("IMAGES/children 3.jpeg");
+    background-image: url("children 3.jpeg");
     background-position: center;
     background-size: cover;
     height: 100vh;
